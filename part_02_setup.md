@@ -18,6 +18,6 @@ Using a command line prompt, go to that uncompressed Solr folder. The files you 
 └── licenses
 ```
 
-Congratulations! You've installed Solr! (You can undertake a more [complicated installation](http://wiki.apache.org/solr/SolrInstall), if you're running Solr as part of an existing server environment, but this simple installation will suffice for this tutorial)
+Congratulations! You've installed Solr! (You can undertake a more [complicated installation](http://wiki.apache.org/solr/SolrInstall) if you're running Solr as part of an existing server environment, but this simple installation will suffice for this tutorial)
 
-[Next]() or [Back]() or [Home]()
+[Next](part_03_quickstart.md) or [Back](part_01_introduction.md) or [Home](part_01_introduction.md) 

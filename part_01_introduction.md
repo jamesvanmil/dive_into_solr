@@ -30,3 +30,5 @@ Java HotSpot(TM) 64-Bit Server VM (build 24.60-b09, mixed mode)
 * Get some Dublin Core sample data
 * Edit schema.xml for indexing the sample data
 * Define solrconfig.xml for quering the sample data
+
+[Next](part_01.introduction.md)
