@@ -24,11 +24,11 @@ Java HotSpot(TM) 64-Bit Server VM (build 24.60-b09, mixed mode)
 ## Steps
 
 * [Install Solr](part_02_setup.md)
-* Start and stop Solr
-* Load some sample data into Solr 
-* Explore the admin and browse interfaces
-* Get some Dublin Core sample data
-* Edit schema.xml for indexing the sample data
-* Define solrconfig.xml for quering the sample data
-
-[Next](part_01.introduction.md)
+* [Start and stop Solr](part_03_quickstart.md)
+* [Load some sample data into Solr]
+* [Explore the admin and browse interfaces]
+* [Get some Dublin Core sample data]
+* [Edit schema.xml for indexing the sample data]
+* [Define solrconfig.xml for quering the sample data]
+]
+[Next](part_02_setup.md)
